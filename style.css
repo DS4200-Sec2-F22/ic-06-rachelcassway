@@ -1,0 +1,16 @@
+#frame {
+	width: 500px;
+	height: 500px;
+}
+
+rect {
+	fill: darkblue;
+}
+
+.red {
+	fill: red;
+}
+
+button{
+	
+}
